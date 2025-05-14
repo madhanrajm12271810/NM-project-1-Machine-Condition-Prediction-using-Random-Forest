@@ -1,7 +1,7 @@
 
 # HVAC Sensor Data Analysis
 
-**Sathishkumar D**
+**madhan raj m **
 **2nd Year, Mechanical Engineering**
 **ARM College of Engineering & Technology**
 **Course: Data Analysis in Mechanical Engineering**
